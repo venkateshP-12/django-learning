@@ -39,7 +39,7 @@ Work through the phases **in order**. Each phase ends with a checkpoint project 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/AmbreenAjmal/django-learning-blueprint.git
+   git clone https://github.com/venkateshP-12/django-learning.git
    cd django-learning-blueprint
    ```
 
